@@ -1,0 +1,8 @@
+dist: trusty
+language: node_js
+node_js:
+  - 7
+before_run:
+    - npm install typescript -g
+script:
+    - npm test

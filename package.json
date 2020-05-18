@@ -1,0 +1,18 @@
+{
+  "main": "./main.js",
+  "type": "module",
+  "name": "arrays",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "test": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {},
+  "dependencies": {
+    "@types/emojione": "^2.2.6",
+    "emojione": "^4.5.0"
+  }
+}
