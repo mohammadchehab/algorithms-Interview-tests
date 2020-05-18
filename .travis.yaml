@@ -5,4 +5,5 @@ node_js:
 before_run:
     - npm install typescript -g
 script:
+    - npm run-script build
     - npm test
