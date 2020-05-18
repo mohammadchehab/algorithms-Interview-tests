@@ -1,12 +1,12 @@
 import { threeNumberSum } from "./arrays/threeNumberSum.mjs";
 import { strict as assert } from "assert";
-import { bubbleSort } from "./arrays/bubbleSort.mjs";
+import { bubbleSort } from "./arrays/bubbleSort.ts";
 import { largestRange } from "./arrays/largestRange.mjs";
 import { smallestDifference } from "./arrays/smallestDifference.mjs";
 import { moveElementToEnd } from "./arrays/moveElementToEnd.mjs";
 import { isMonotonic } from "./arrays/monotonicArray.mjs";
 import { spiralTraverse } from "./arrays/sprialTraverse.mjs";
-import { numberMultiply } from "./arrays/numberMulty.mjs";
+import { numberMultiply } from "./arrays/numberMulty.ts";
 import { longestPeak } from "./arrays/longestPeak.mjs";
 
 
