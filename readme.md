@@ -7,7 +7,7 @@ Table of contents
 =================
 * [Installation](#installation)
 * [Algorithms](#algorithims)
-	* [Bubble Sort](#bubbleSort) 	
+	* [Bubble Sort](#bubble-Sort) 	
 * [Dependency](#dependency) 
 
 Installation
