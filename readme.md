@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/chehabz/algorithms-Interview-tests.svg?branch=master)](https://travis-ci.com/chehabz/algorithms-Interview-tests)
+
 # Introduction
 This repository helps you prepare for your coding interview for companies like (Microsoft, Amazon, Facebook, DeliveryHero...)
 
