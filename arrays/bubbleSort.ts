@@ -1,5 +1,5 @@
 
-export function bubbleSort(array) {
+export function bubbleSort(array: Array<number>) {
     var sorted = false;
     
     while (!sorted) {
