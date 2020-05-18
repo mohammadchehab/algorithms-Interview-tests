@@ -1,11 +1,10 @@
 {
-  "main": "./main.js",
+  "main": "./app.mjs",
   "type": "module",
-  "name": "arrays",
+  "name": "algorithms",
   "version": "1.0.0",
   "scripts": {
-    "build": "tsc",
-    "test": "node main.js"
+    "test": "node app.mjs"
   },
   "author": "",
   "license": "ISC",
