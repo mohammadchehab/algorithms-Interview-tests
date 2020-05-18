@@ -1,7 +1,7 @@
 
 export function bubbleSort(array: Array<number>) {
-    var sorted = false;
-    
+    let sorted: boolean = false;
+
     while (!sorted) {
         sorted = true;
         for (var i = 0; i < array.length - 1; i++) {
