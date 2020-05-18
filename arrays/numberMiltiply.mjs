@@ -1,7 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.numberMultiply = void 0;
-function numberMultiply(array, targetMultiply) {
+export function numberMultiply(array, targetMultiply) {
     for (var i = 0; i < array.length - 1; i++) {
         for (var j = array.length - 1; j > i; j--) {
             if (array[i] * array[j] === targetMultiply) {
@@ -11,4 +8,3 @@ function numberMultiply(array, targetMultiply) {
     }
     return [];
 }
-exports.numberMultiply = numberMultiply;

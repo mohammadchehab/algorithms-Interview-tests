@@ -1,6 +1,5 @@
-
-export function bubbleSort(array: Array<number>) {
-    let sorted: boolean = false;
+export function bubbleSort(array) {
+    let sorted = false;
 
     while (!sorted) {
         sorted = true;

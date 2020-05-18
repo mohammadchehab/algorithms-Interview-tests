@@ -9,10 +9,20 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {},
+  "description": "[![Build Status](https://travis-ci.com/chehabz/algorithms-Interview-tests.svg?branch=master)](https://travis-ci.com/chehabz/algorithms-Interview-tests)",
+  "devDependencies": {
+    "@types/node": "^14.0.1"
+  },
   "dependencies": {
     "@types/emojione": "^2.2.6",
     "emojione": "^4.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chehabz/algorithms-Interview-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chehabz/algorithms-Interview-tests/issues"
+  },
+  "homepage": "https://github.com/chehabz/algorithms-Interview-tests#readme"
 }
