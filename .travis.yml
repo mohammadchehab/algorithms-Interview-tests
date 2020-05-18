@@ -2,7 +2,7 @@ dist: trusty
 language: node_js
 node_js:
   - 14
-before_run:
+before_install:
     - npm install typescript -g
 script:
     - npm run-script build
