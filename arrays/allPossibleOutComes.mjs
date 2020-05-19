@@ -1,4 +1,3 @@
-import { workerData } from "worker_threads";
 
 let permutate = (str, result = [], stash = []) => {
   if (!str) {
