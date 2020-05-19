@@ -9,6 +9,9 @@ import { numberMultiply } from "./arrays/numberMiltiply.mjs";
 import { longestPeak } from "./arrays/longestPeak.mjs";
 import {isAwesomeNumber} from "./arrays/isAwesomeNumber.mjs"
 import { strict as assert } from "assert";
+import { allPossibleOutComes } from "./arrays/allPossibleOutComes.mjs";
+
+assert.deepEqual(allPossibleOutComes("ab"), ["ab", "ba"]);
 
 assert.deepEqual(isAwesomeNumber(6), [1,2,3]);
 
